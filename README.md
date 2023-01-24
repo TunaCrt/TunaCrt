@@ -7,12 +7,14 @@
 ## Fullstack Developer | (Student)
 
 <font color="pink">Some Coffee :coffee: lots of `< code />` </font>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TunaCrt&label=Profile%20views&color=0e75b6&style=flat" alt="TunaCrt" /> </p>
 
 ## Reach out to me
 
 
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left" />][medium]
 
 <br />
 <br />
@@ -54,5 +56,6 @@
 
 
 
+[medium]:https://medium.com/@tunacort05
 
 [linkedin]: https://www.linkedin.com/in/ibrahim-tuna-c%C3%B6rt-3481a9235/
