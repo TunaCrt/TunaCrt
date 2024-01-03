@@ -15,7 +15,6 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin] 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left" />][medium] 
-[<img  width="22" src="https://unpkg.com/simple-icons@4.25.0/icons/gmail.svg" align="left" />][gmail]
 
 <br />
 <br />
@@ -26,14 +25,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"title="HTML5"alt="HTML"width="40"height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="  https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-originalsvg"title="HTML5"alt="HTML"width="40"height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
----
 
 <br />
 <br />
@@ -69,7 +67,7 @@
 
 
 
-[gmail]:tuna.cort52@gmail.com
+
 
 [medium]:https://medium.com/@tunacort05
 
