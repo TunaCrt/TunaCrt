@@ -7,7 +7,6 @@
 ## Backend Developer | (Student)
 
 <font color="pink">Some Coffee :coffee: lots of `< code />` </font>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TunaCrt&label=Profile%20views&color=0e75b6&style=flat" alt="TunaCrt" /> </p>
 
 ## Reach out to me
 
@@ -35,7 +34,6 @@
 
 <br />
 <br />
-
 ---
 
 ### :fire: My Stats :
