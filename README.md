@@ -18,7 +18,7 @@
 <br />
 <br />
 
----
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -42,21 +42,12 @@
 ### :fire: My Stats :
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tunacrt&theme=dark&background=000000" alt="tunacrt"><p>
  -->
-<br>
+
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tunacrt&theme=dark&background=000000show_icons=true&locale=en&layout=compact" alt="tunacrt" />   -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tunacrt&theme=dark&background=000000show_icons=true&locale=en&layout=compact" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tunacrt&theme=dark" height="180em" />
 <br>
 
----
-
-
-## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=TunaCrt&theme=dark" >
-
-
-<br />
-<br />
 
 
 
