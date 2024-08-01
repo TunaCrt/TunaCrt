@@ -40,11 +40,12 @@
 
 
 ### :fire: My Stats :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tunacrt&theme=dark&background=000000" alt="tunacrt" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tunacrt&theme=dark&background=000000" alt="tunacrt"><p>
+ -->
 <br>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tunacrt&theme=dark&background=000000show_icons=true&locale=en&layout=compact" alt="tunacrt" />   -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tunacrt&theme=dark&background=000000show_icons=true&locale=en&layout=compact" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tunacrt&theme=dark&background=000000show_icons=true&locale=en&layout=compact" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tunacrt&theme=dark&background=000000show_icons=true&locale=en&layout=compact" height="180em" />
 <br>
 
 ---
