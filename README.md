@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Tuna. :blush:
 
-## Backend Developer | (Student)
+## Backend Developer
 
 <font color="pink">Some Coffee :coffee: lots of `< code />` </font>
 
